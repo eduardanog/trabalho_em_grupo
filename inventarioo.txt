@@ -1,0 +1,3 @@
+{'nome': 'neocopan', 'dosagem': '10', 'quantidade': 4, 'preco': 23.5}
+{'nome': 'avide', 'dosagem': '1', 'quantidade': 23, 'preco': 45.7}
+{'nome': 'dipirona', 'dosagem': '10', 'quantidade': 24, 'preco': 10.5}
